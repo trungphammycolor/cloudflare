@@ -5,7 +5,7 @@ export default function Home() {
 	return (
 		<main className={styles.main}>
 			<div className={styles.description}>
-				<p>Hello World by Pages with autimatic deployments include CI 3rd</p>
+				<p>Hello World by Pages with autimatic deployments include CI 4th</p>
 				<div>
 					<a
 						href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
